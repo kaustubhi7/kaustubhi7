@@ -12,6 +12,4 @@ Pre-final year CSE student in Bhopal | Targeting Software Developer / Salesforce
 ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-//## Stats
-//![Stats](https://github-readme-stats.vercel.app/api?username=kaustubhi7&show_icons=true&theme=dark)
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhi7&layout=compact&theme=dark)
+
