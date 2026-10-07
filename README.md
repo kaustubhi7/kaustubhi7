@@ -1,15 +1,16 @@
-# yoo kaustubh here !
-final year CSE student in bhopal | building foundations to survive
+#yoo
+fresher <br>learning to build software solutions
 
-## What I'm building
-- **Nudge**: cross-device clipboard sync (full-stack)
-- **Zen Drifter**: interactive 3D web experience (Three.js)
-- **Wallpaper Fetcher**: Java + JSoup scraper
 
-## Tech
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustubh.wagh19@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
