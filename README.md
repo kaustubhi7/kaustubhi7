@@ -1,5 +1,5 @@
-# Hi, I'm Kaustubh 👋
-Pre-final year CSE student in Bhopal | Targeting Software Developer / Salesforce Developer roles
+# yoo kaustubh here !
+final year CSE student in bhopal | building foundations to survive
 
 ## What I'm building
 - **Nudge**: cross-device clipboard sync (full-stack)
