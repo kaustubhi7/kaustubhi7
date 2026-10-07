@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Kaustubh 👋
+Pre-final year CSE student in Bhopal | Targeting Software Developer / Salesforce Developer roles
 
-<!--
-**kaustubhi7/kaustubhi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm building
+- **Nudge**: cross-device clipboard sync (full-stack)
+- **Zen Drifter**: interactive 3D web experience (Three.js)
+- **Wallpaper Fetcher**: Java + JSoup scraper
 
-Here are some ideas to get you started:
+## Tech
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+//## Stats
+//![Stats](https://github-readme-stats.vercel.app/api?username=kaustubhi7&show_icons=true&theme=dark)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhi7&layout=compact&theme=dark)
